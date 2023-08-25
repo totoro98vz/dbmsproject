@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "483943341628",
+    "project_id": "copper-7e53b",
+    "storage_bucket": "copper-7e53b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483943341628:android:0724344c2e8ce306fd6d39",
+        "android_client_info": {
+          "package_name": "com.mycompany.dbmsproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483943341628-evp8enrbeu0566vkecpgmvi6f4iduunp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.dbmsproject",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "483943341628-fm25q1lssaij5uug229k9rdgtmgfl5is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBehGS4xXNboWG7CM-bukYfFypdFNjuy1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483943341628-fm25q1lssaij5uug229k9rdgtmgfl5is.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "483943341628-qc0h28n3u0i5cmm6k54vmbsvhi0nkar1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.dbmsproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
